@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F7E18C8B-7D64-4C1D-8F37-4093D89D61FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Padrao_MVVM/Program.cs">
+    <Files>
+      <File FileName="Padrao_MVVM/Program.cs" Line="18" Column="1" />
+      <File FileName="Padrao_MVVM/Produto.cs" Line="8" Column="48" />
+      <File FileName="Padrao_MVVM/ProdutoRepositorio.cs" Line="24" Column="36" />
+      <File FileName="Padrao_MVVM/ProdutoViewModel.cs" Line="21" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Padrao_MVVM" expanded="True">
+            <Node name="Padrao_MVVM" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Padrao__MVVM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

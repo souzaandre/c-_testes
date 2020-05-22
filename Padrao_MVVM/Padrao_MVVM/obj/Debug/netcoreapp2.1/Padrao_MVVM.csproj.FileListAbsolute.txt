@@ -1,0 +1,11 @@
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/obj/Debug/netcoreapp2.1/Padrao_MVVM.csprojAssemblyReference.cache
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/obj/Debug/netcoreapp2.1/Padrao_MVVM.csproj.CoreCompileInputs.cache
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/obj/Debug/netcoreapp2.1/Padrao_MVVM.AssemblyInfoInputs.cache
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/obj/Debug/netcoreapp2.1/Padrao_MVVM.AssemblyInfo.cs
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/bin/Debug/netcoreapp2.1/Padrao_MVVM.deps.json
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/bin/Debug/netcoreapp2.1/Padrao_MVVM.runtimeconfig.json
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/bin/Debug/netcoreapp2.1/Padrao_MVVM.runtimeconfig.dev.json
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/bin/Debug/netcoreapp2.1/Padrao_MVVM.dll
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/bin/Debug/netcoreapp2.1/Padrao_MVVM.pdb
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/obj/Debug/netcoreapp2.1/Padrao_MVVM.dll
+/Users/andresouza/Projects/Padrao_MVVM/Padrao_MVVM/obj/Debug/netcoreapp2.1/Padrao_MVVM.pdb
